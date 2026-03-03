@@ -431,6 +431,9 @@ p:last-child {
   margin-right: 7px;
   max-height: 42px;
   display: inline-block;
+  height: 42px;
+  width: 172px;
+  object-fit: contain;
 }
 
 .navbar-main .nav-link {
